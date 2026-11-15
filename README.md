@@ -54,3 +54,7 @@ PostgreSQL, SQL (pgAdmin 4)
 - `urban_basket_analysis.sql` – all queries used in this analysis
 - `README.md` – project summary
 - ![Executive Overview](executive-overview.JPG)
+![Category Performance](category-performance.png)
+![Store Performance](store-performance.png)
+![Orders and Fulfilment](orders-fulfilment.png)
+![Customers](customers.png)
